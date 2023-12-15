@@ -9,3 +9,12 @@ Wallet is a FPP (First Person Perspective) Horror Game, for Windows Platform whe
 | Q | Drop Items |
 | F | Toggle Flashlight On/Off |
 | Esc | Pause Menu |
+
+
+## How to download this Unity Project
+1. To Download this Unity Project, Click on "Code" button and go to "Download ZIP".
+2. Make sure, you have WinRAR to your Windows to open the file.
+3. After Opening, Extract the file.
+
+## How to get Executable File for Windows
+Go to [The Wallet] (https://ghostlyindie.itch.io/the-wallet) itch.io page.
