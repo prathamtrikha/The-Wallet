@@ -17,4 +17,7 @@ Wallet is a FPP (First Person Perspective) Horror Game, for Windows Platform whe
 3. After Opening, Extract the file.
 
 ## How to get Executable File for Windows
-Go to [The Wallet] (https://ghostlyindie.itch.io/the-wallet) itch.io page.
+1. Open the below URL 
+https://ghostlyindie.itch.io/the-wallet
+2. Scroll Down on the page and click download button.
+3. Open "TheWallet.exe" file in the folder.
