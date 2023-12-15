@@ -4,3 +4,4 @@ Wallet is a FPP (First Person Perspective) Horror Game, for Windows Platform whe
 ## How to Operate
 | Key | Content |
 | --- | --------|
+| WASD | Move |
