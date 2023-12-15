@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 4beedc22075f193499faaa89d4d616f4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: table
+    100004: table_leg1
+    100006: table_leg1_Cap_12
+    100008: table_leg1_Cap_23
+    100010: table_leg2
+    100012: table_leg2_Cap_11
+    100014: table_leg2_Cap_2
+    100016: table_leg3
+    100018: table_leg3_Cap_13
+    100020: table_leg3_Cap_21
+    100022: table_leg4
+    100024: table_leg4_Cap_1
+    100026: table_leg4_Cap_22
+    400000: //RootNode
+    400002: table
+    400004: table_leg1
+    400006: table_leg1_Cap_12
+    400008: table_leg1_Cap_23
+    400010: table_leg2
+    400012: table_leg2_Cap_11
+    400014: table_leg2_Cap_2
+    400016: table_leg3
+    400018: table_leg3_Cap_13
+    400020: table_leg3_Cap_21
+    400022: table_leg4
+    400024: table_leg4_Cap_1
+    400026: table_leg4_Cap_22
+    2300000: table
+    2300002: table_leg1
+    2300004: table_leg1_Cap_12
+    2300006: table_leg1_Cap_23
+    2300008: table_leg2
+    2300010: table_leg2_Cap_11
+    2300012: table_leg2_Cap_2
+    2300014: table_leg3
+    2300016: table_leg3_Cap_13
+    2300018: table_leg3_Cap_21
+    2300020: table_leg4
+    2300022: table_leg4_Cap_1
+    2300024: table_leg4_Cap_22
+    3300000: table
+    3300002: table_leg1
+    3300004: table_leg1_Cap_12
+    3300006: table_leg1_Cap_23
+    3300008: table_leg2
+    3300010: table_leg2_Cap_11
+    3300012: table_leg2_Cap_2
+    3300014: table_leg3
+    3300016: table_leg3_Cap_13
+    3300018: table_leg3_Cap_21
+    3300020: table_leg4
+    3300022: table_leg4_Cap_1
+    3300024: table_leg4_Cap_22
+    4300000: table
+    4300002: table_leg1
+    4300004: table_leg1_Cap_12
+    4300006: table_leg1_Cap_23
+    4300008: table_leg2
+    4300010: table_leg2_Cap_11
+    4300012: table_leg2_Cap_2
+    4300014: table_leg3
+    4300016: table_leg3_Cap_13
+    4300018: table_leg3_Cap_21
+    4300020: table_leg4
+    4300022: table_leg4_Cap_1
+    4300024: table_leg4_Cap_22
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tableMat
+    second: {fileID: 2100000, guid: 5993faaf91d2dd64c8599301d0afb2e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: table_leg1Mat
+    second: {fileID: 2100000, guid: 9080987acd74dad459234413495879f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: table_leg1_Cap_12Mat
+    second: {fileID: 2100000, guid: e963423e9a738e44f81a379499c4633c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: table_leg1_Cap_23Mat
+    second: {fileID: 2100000, guid: 63fe820e6198b3849bccdb2aabae6021, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: table_leg2Mat
+    second: {fileID: 2100000, guid: d6b6cd8a3608cd74e970f9cb4d127f6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: table_leg2_Cap_11Mat
+    second: {fileID: 2100000, guid: 81880d2f778c7b14c8493bf163ae7fea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: table_leg2_Cap_2Mat
+    second: {fileID: 2100000, guid: 1bf74a6578224b442be7cebd6cc99e97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: table_leg3Mat
+    second: {fileID: 2100000, guid: 60fcc0c2ff62b5c40800a19fec3953b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: table_leg3_Cap_13Mat
+    second: {fileID: 2100000, guid: e2878ef6166320a4a8c24f72f6115c79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: table_leg3_Cap_21Mat
+    second: {fileID: 2100000, guid: 3adbbd08dadb0c840a517c9520a380ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: table_leg4Mat
+    second: {fileID: 2100000, guid: 8d9c5b9845af2424daf4114677b1f41f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: table_leg4_Cap_1Mat
+    second: {fileID: 2100000, guid: aa728965a9b297747bb810b520aabcef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: table_leg4_Cap_22Mat
+    second: {fileID: 2100000, guid: e39be8d93fe8b9345b28e314537e7c0e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
