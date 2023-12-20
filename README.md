@@ -22,5 +22,6 @@ https://ghostlyindie.itch.io/the-wallet
 2. Scroll Down on the page and click download button.
 3. Open "TheWallet.exe" file in the folder.
 
+Download Here - https://ghostlyindie.itch.io/the-wallet
 
 Happy Playing !!!
